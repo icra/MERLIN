@@ -1,5 +1,0 @@
-wetland.wet
-      id  name                          init               hyd               rel               sed               nut  
-       1  wet0001                   initwet1        hydwet0001              null           sedwet1           nutwet1  
-       2  wet0002                   initwet1        hydwet0002              null           sedwet1           nutwet1  
-       3  wet0003                   initwet1        hydwet0003              null           sedwet1           nutwet1  
